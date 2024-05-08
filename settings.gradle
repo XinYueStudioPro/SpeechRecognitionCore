@@ -1,0 +1,4 @@
+
+rootProject.name = "SpeechRecognition"
+include ':app'
+include ':SpeechRecognitionSDK'
